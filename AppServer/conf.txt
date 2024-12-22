@@ -1,0 +1,13 @@
+# Nom du fichier de sauvegarde
+filenamesauvegarde=sauvegardes.txt
+
+# Configuration du serveur
+
+host=127.0.0.1    
+port=3300         
+portbackup=3000
+
+# Utilisateurs et mots de passe
+user1=mdpuser1
+user2=mdpuser2
+admin=admin

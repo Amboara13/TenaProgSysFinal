@@ -1,0 +1,6 @@
+
+----
+Relation: etudiants
+Attributs: Num, INT, Nom, CHAR, Note, CHAR
+----Tuple pour la relation etudiants: 1,george,A,
+Tuple pour la relation etudiants: 1,Goerge,A,

@@ -1,0 +1,62 @@
+
+----
+
+----
+Relation: etudiants
+Attributs: Num, INT, Nom, CHAR
+----
+----
+----
+
+----
+----
+
+----
+----
+
+----
+----
+----
+----
+
+----
+----
+
+----
+----
+
+----
+----
+
+----
+----
+
+----
+----
+
+----
+----
+
+----
+Relation: participation
+Attributs: Num, INT, Matiere, CHAR
+----
+Tuple pour la relation participation: 1,MATH,
+Tuple pour la relation participation: 2,MATH,
+Tuple pour la relation participation: 3,MATH,
+Tuple pour la relation participation: 4,MATH,
+Tuple pour la relation etudiants: 1,Bebe,
+Tuple pour la relation etudiants: 2,Moi,
+Tuple pour la relation etudiants: 3,Lui,
+Tuple pour la relation etudiants: 4,toi,
+Tuple pour la relation etudiants: 5,non,
+Tuple pour la relation participation: 1,PC,
+Tuple pour la relation participation: 4,PC,
+
+----
+Relation: i
+Attributs: Num, INT, Nom, CHAR
+----
+Tuple pour la relation i: 2,Moi,
+Tuple pour la relation i: 3,Lui,
+Tuple pour la relation i: 4,toi,

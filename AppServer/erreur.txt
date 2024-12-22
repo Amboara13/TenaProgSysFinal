@@ -1,0 +1,12 @@
+Erreur dans la commande : insert into note (1,MATH,12.0); | Erreur : java.lang.IllegalArgumentException: La valeur 12.0 ne correspond pas au domaine DOUBLE
+Erreur dans la commande : insert into note (1,MATH,12); | Erreur : java.lang.IllegalArgumentException: La valeur 12 ne correspond pas au domaine INT
+Erreur dans la commande : insert into note (1,MATH,12); | Erreur : java.lang.IllegalArgumentException: La valeur 12 ne correspond pas au domaine INT
+Erreur dans la commande : insert into note (1,MATH,12); | Erreur : java.lang.IllegalArgumentException: La valeur 12 ne correspond pas au domaine INT
+Erreur dans la commande : drop tablr note | Erreur : java.lang.IllegalArgumentException: Le debut de la sous-liste (TABLE) n'a pas ete trouve.
+Erreur dans la commande : insert into note(1,12.0); | Erreur : java.lang.IllegalArgumentException: La valeur 12.0 ne correspond pas au domaine DOUBLE
+Erreur dans la commande : insert into note(1,12.0); | Erreur : java.lang.IllegalArgumentException: La valeur 12.0 ne correspond pas au domaine DOUBLE
+Erreur dans la commande : insert into etudiant (1,Bebe); | Erreur : java.lang.ArrayIndexOutOfBoundsException: Index 2 out of bounds for length 2
+Erreur dans la commande : select * from etudiants where num not in i; | Erreur : java.lang.NullPointerException: Cannot invoke "moteur.Relation.afficher()" because "<local5>" is null
+Erreur dans la commande : select * from etudiants where Num not in i; | Erreur : java.lang.NullPointerException: Cannot invoke "moteur.Relation.afficher()" because "<local5>" is null
+Erreur dans la commande : select * from etudiants where Num not in i; | Erreur : java.lang.NullPointerException: Cannot invoke "moteur.Relation.afficher()" because "<local5>" is null
+Erreur dans la commande :  | Erreur : java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
